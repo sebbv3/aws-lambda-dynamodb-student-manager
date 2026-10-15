@@ -190,3 +190,15 @@ The final result is a working serverless web application where users can save, f
 
 **Project type:** Cloud Computing / Serverless AWS Lab  
 **Purpose:** Educational lab and portfolio project
+
+## Screenshots
+
+<img width="2559" height="1310" alt="Screenshot 2026-10-15 162040" src="https://github.com/user-attachments/assets/4a6c39cc-c8cb-4715-93d2-88f1c97e0ca4" />
+<img width="2554" height="1307" alt="Screenshot 2026-10-15 162141" src="https://github.com/user-attachments/assets/a389a8c9-39b4-4070-9293-cc3f4c3e4079" />
+<img width="2559" height="1310" alt="Screenshot 2026-10-15 162320" src="https://github.com/user-attachments/assets/d4d71916-ab18-44a9-87e1-8000443db946" />
+<img width="2559" height="1309" alt="Screenshot 2026-10-15 162347" src="https://github.com/user-attachments/assets/95d299d3-2911-4914-9436-597d2aafd017" />
+<img width="2559" height="1307" alt="Screenshot 2026-10-15 162413" src="https://github.com/user-attachments/assets/4ef9a65d-a215-4f76-b6d4-ca19967e83c5" />
+<img width="2559" height="1309" alt="Screenshot 2026-10-15 162740" src="https://github.com/user-attachments/assets/4515bffd-a8f4-4547-825a-1537ecf03a89" />
+<img width="2559" height="1343" alt="Screenshot 2026-10-15 162502" src="https://github.com/user-attachments/assets/6e79b9a2-6eac-40dd-b425-7480a847028f" />
+<img width="2559" height="1350" alt="Screenshot 2026-10-15 162830" src="https://github.com/user-attachments/assets/4d5beef0-6f78-4f6d-ab72-bc39a221750d" />
+
