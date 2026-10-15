@@ -64,7 +64,6 @@ The table uses:
 - String as the key type
 - On-demand capacity mode
 
-![DynamoDB table](screenshots/01-dynamodb-table.png)
 
 ### 2. Create the AWS Lambda Function
 
@@ -72,7 +71,6 @@ I created a Python Lambda function named `mcit-student-ui`.
 
 The function contains the backend logic and also returns the HTML/CSS used by the browser interface.
 
-![Lambda function](screenshots/02-lambda-function.png)
 
 ### 3. Deploy the Python Application Code
 
@@ -86,7 +84,6 @@ The application supports:
 - UTC timestamps using `updated_at`
 - HTML output returned directly from Lambda
 
-![Lambda code](screenshots/03-lambda-code.png)
 
 ### 4. Configure Environment Variables
 
@@ -97,7 +94,6 @@ TABLE_NAME=MCITStudents
 TABLE_REGION=us-east-1
 ```
 
-![Environment variables](screenshots/04-environment-variables.png)
 
 ### 5. Configure IAM Permissions
 
@@ -129,7 +125,6 @@ Configuration:
 - Invoke mode: `BUFFERED`
 - CORS: disabled for this same-origin demo
 
-![Function URL](screenshots/05-function-url.png)
 
 > **Security note:** This was a classroom/demo application using fictional data. A public production application should use authentication and more restrictive access controls.
 
@@ -151,7 +146,6 @@ Name: Seb Student
 Course: Cloud computing
 ```
 
-![Student saved](screenshots/06-student-saved.png)
 
 ### 8. Verify the DynamoDB Record
 
@@ -164,13 +158,11 @@ Stored attributes include:
 - `course`
 - `updated_at`
 
-![DynamoDB record](screenshots/07-dynamodb-record.png)
 
 ### 9. Find a Student
 
 The application can retrieve an existing student by ID and populate the saved information back into the browser form.
 
-![Student loaded](screenshots/08-student-loaded.png)
 
 ## What I Learned
 
